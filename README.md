@@ -1,2 +1,3 @@
-# student-performanceCRUD
-ML app to predict student grades based on input features
+# Task Manager App 
+Task manager app to increase productivity
+
