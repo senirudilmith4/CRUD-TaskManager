@@ -8,7 +8,7 @@ task_queue= QlinkedList()
 def home():
     return "Task Manager app is running"
 
-@app.route("/add_task",meethods=["POST"])
+@app.route("/add_task",methods=["POST"])
 def add_task():
     task = request.form.get("task")
     if not task:
